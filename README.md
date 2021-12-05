@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @matejfrana
-- 👀 I’m interested in Python, JavaScript
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m @matejfrana
+- I’m interested in Python, JavaScript
+- I'm 17 years old
+- I live in Czech republic
+
 
 <!---
 matejfrana/matejfrana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
